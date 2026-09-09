@@ -1,0 +1,8 @@
+# 运行时产物与系统垃圾——禁止提交
+__pycache__/
+*.pyc
+.hermes/
+desktop.ini
+Thumbs.db
+~$*
+*.tmp
