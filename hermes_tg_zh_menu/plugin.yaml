@@ -1,0 +1,5 @@
+name: tg_zh_menu
+version: "1.1.0"
+description: Telegram 命令菜单汉化：把 /命令 描述替换为中文，未知命令回退官方英文。官方原生支持描述覆盖时自动让位。
+author: CoffeeOwl (EncoTime)
+license: MIT
