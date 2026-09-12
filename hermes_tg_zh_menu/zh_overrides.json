@@ -65,7 +65,7 @@
   "update": "更新 Hermes Agent 到最新版",
   "version": "显示 Hermes Agent 版本",
   "debug": "上传调试报告（系统信息+日志）并获取分享链接",
-  "disk_cleanup": "跟踪并清理 Hermes 会话临时文件",
+  "login": "登录 Nous 账号（保留已连接的连接器）",
   "ponytail": "设置 Ponytail 惰性资深开发模式：lite/full/ultra/off",
   "ponytail_review": "审查当前 diff 或目标是否存在过度设计",
   "ponytail_audit": "审计仓库的过度设计与可删除项",
